@@ -1,0 +1,26 @@
+export const ROLE_COLLECTION = 'roles';
+export const USER_CUSTOMER_COLLECTION = 'user-customers';
+export const USER_EMPLOYEE_COLLECTION = 'user-employees';
+export const DEPARTMENT_COLLECTION = 'departments';
+export const EMPLOYEE_COLLECTION = 'employees';
+export const CUSTOMER_COLLECTION = 'customers';
+export const CUSTOMER_DETAIL_COLLECTION = 'customer-details';
+export const ROOM_TYPE_COLLECTION = 'room-types';
+export const ROOM_CATEGORY_COLLECTION = 'room-categories';
+export const ROOM_RANK_COLLECTION = 'room-ranks';
+export const ROOM_RANK_PRICE_COLLECTION = 'room-rank-prices';
+export const ROOM_STATUS_COLLECTION = 'room-status';
+export const ROOM_COLLECTION = 'rooms';
+export const SERVICE_COLLECTION = 'services';
+export const SERVICE_PRICE_COLLECTION = 'service-prices';
+export const SERVICE_DETAIL_COLLECTION = 'service-details';
+export const BOOKING_COLLECTION = 'bookings';
+export const BOOKING_DETAIL_COLLECTION = 'booking-details';
+export const RENTING_COLLECTION = 'rentings';
+export const RENTING_DETAIL_COLLECTION = 'renting-details';
+export const DISCOUNT_DETAIL_COLLECTION = 'discount-details';
+export const DISCOUNT_COLLECTION = 'discount';
+export const RECEIPT_COLLECTION = 'receipts';
+export const BOOKING_ORDER_COLLECTION = 'booking-orders'
+
+export const SALT_ROUND = 10;
